@@ -2,7 +2,7 @@ Frontend Evaluacion Mundo Pacifico
 
 Requisitos:
 
-* npm version 9.8.0
+* npm version 9.8.0 (NodeJs instalado https://nodejs.org/en)
 * node version 20.5.1
 
 Instrucciones:
